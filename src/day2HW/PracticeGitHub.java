@@ -7,6 +7,11 @@ public class PracticeGitHub {
 		
 		System.out.println("Saturday is a fun day!");
 		
+	}
+	
+	
+	public void addInfo() {
+		System.out.println("flying scares me");
 		
 	}
 	public void learnHub(){
