@@ -9,5 +9,7 @@ public class PracticeGitHub {
 		
 		
 	}
-
+	public void learnHub(){
+		System.out.println("I'm learning);
+	}
 }
