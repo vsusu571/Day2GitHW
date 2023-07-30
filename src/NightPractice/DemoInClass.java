@@ -8,5 +8,8 @@ public class DemoInClass {
 		
 		
 	}
-
+public void getName(){
+	System.out.println("Name is Important");
+		
+	}
 }
