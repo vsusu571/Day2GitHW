@@ -12,4 +12,7 @@ public void getName(){
 	System.out.println("Name is Important");
 		
 	}
+	public void setdate()
+	System.out.pritnln("July 30");
+}
 }
